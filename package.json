@@ -1,0 +1,27 @@
+{
+  "name": "Spotifuse",
+  "version": "0.0.1",
+  "description": "A web-based tool to fuse two Spotify accounts together, cloning playlists, favourites, and more.",
+  "author": "Merott Movahedi",
+  "license": "MIT",
+  "homepage": "https://github.com/Merott/Spotifuse",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Merott/Spotifuse"
+  },
+  "bugs": {
+    "url": "https://github.com/Merott/Spotifuse/issues"
+  },
+  "keywords": [
+    "spotify",
+    "clone",
+    "fuse",
+    "copy",
+    "sync"
+  ],
+  "private": true,
+  "devDependencies": {
+    "gulp": "^3.8.10",
+    "bricklayer": "^0.0.1"
+  }
+}
